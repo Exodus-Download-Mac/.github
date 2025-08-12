@@ -57,18 +57,14 @@ With a commitment to user satisfaction, Exodus For Mac is available as a **free 
 
 ## 🖼 Preview
 
-![Main Interface](https://via.placeholder.com/800x600.png?text=Exodus+Main+Interface)
+![Main Interface](https://www.exodus.com/img/og-image-rect.jpg)
 *Clean and intuitive main interface of Exodus For Mac*
 
-![File Management](https://via.placeholder.com/800x600.png?text=File+Management)
+![File Management](https://www.exodus.com/_next/static/media/hero-preview.a5ed490b.png)
 *Organize files effortlessly with advanced tools*
 
-![Sync Feature](https://via.placeholder.com/800x600.png?text=Sync+Feature)
-*Seamlessly sync data across devices*
 
-![Customization Options](https://via.placeholder.com/800x600.png?text=Customization+Options)
-*Tailor workflows to your needs*
 
 ## 🔍 Tags
 
-macOS productivity software, free download for Mac, macOS app security, efficient desktop tools for Mac, macOS file management, macOS optimization, reliable macOS app, free macOS software download, productivity tools for macOS, secure macOS application
+exodus wallet, exodus crypto wallet, exodus crypto, exodus wallet download, exodus wallet mac, exodus wallet free, download exodus wallet, free exodus wallet, exodus wallet for mac, exodus wallet macos, exodus wallet desktop, exodus wallet free download, exodus wallet download free, exodus wallet github, exodus wallet for mac free, download exodus wallet mac
